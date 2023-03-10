@@ -1,24 +1,24 @@
-body{
-    background-color: honeydew;
-    font-family: sans-serif
+body {
+  background-color: honeydew;
+  font-family: sans-serif;
 }
 
-header{
-    text-align: center;
+header {
+  text-align: center;
 }
 
-main{
-    display: flex;
-    flex-flow: column;
-    align-content: center;
-    flex-wrap: wrap;
+main {
+  display: flex;
+  flex-flow: column;
+  align-content: center;
+  flex-wrap: wrap;
 }
 
-figure{
-    display: inline-block;
-    max-width: 100%;
+figure {
+  display: inline-block;
+  max-width: 100%;
 }
 
-img{
-    max-width: 100%;
+img {
+  max-width: 100%;
 }
